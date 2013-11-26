@@ -95,7 +95,7 @@
 #include <openssl/ossl_typ.h>
 #include <openssl/symhacks.h>
 
-/*#include <openssl/x509.h>*/
+#include <openssl/x509.h>
 
 #ifdef  __cplusplus
 extern "C" {
